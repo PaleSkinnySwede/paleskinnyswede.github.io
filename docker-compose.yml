@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    platform: linux/arm64
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+    command: jekyll serve --watch --force_polling --host 0.0.0.0
