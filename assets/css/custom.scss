@@ -42,3 +42,10 @@
 footer {
   border-top: none !important;
 }
+
+/* Hide WhatsApp share button */
+.social-share .whatsapp,
+.share-whatsapp,
+a[href*="whatsapp"] {
+    display: none !important;
+}
