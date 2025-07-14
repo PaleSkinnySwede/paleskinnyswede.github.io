@@ -175,6 +175,7 @@ defaults:
     values:
       layout: "default"
       header_type: "base"
+      custom_css: "/assets/css/custom.css"
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
@@ -184,6 +185,7 @@ defaults:
       type: "posts"
     values:
       header_type       : "post"
+      custom_css: "/assets/css/custom.css"
       include_on_search : true
       include_on_feed   : true
       show_date         : true
@@ -204,6 +206,7 @@ defaults:
       type: "discography"
     values:
       header_type       : "hero"
+      custom_css: "/assets/css/custom.css"
       show_bottomnavs   : true
       show_sociallinks  : true
       include_on_search : true
