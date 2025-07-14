@@ -11,7 +11,7 @@ var store = [{
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "https://dieghernan.github.io/archive",
+        "url": "https://paleskinnyswede.github.io/archive",
         "img": null
       },{
         "title": "First post!",
@@ -21,7 +21,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-04",
         "tags": ["random","exciting-stuff"],
-        "url": "https://dieghernan.github.io/20150104_first-post/",
+        "url": "https://paleskinnyswede.github.io/20150104_first-post/",
         "img": null
       },{
         "title": "Pirates arrrr",
@@ -31,7 +31,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-15",
         "tags": ["pirates","random","wikipedia"],
-        "url": "https://dieghernan.github.io/20150115_pirates/",
+        "url": "https://paleskinnyswede.github.io/20150115_pirates/",
         "img": null
       },{
         "title": "Soccer",
@@ -41,7 +41,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-19",
         "tags": ["random","exciting-stuff","wikipedia"],
-        "url": "https://dieghernan.github.io/20150119_soccer/",
+        "url": "https://paleskinnyswede.github.io/20150119_soccer/",
         "img": null
       },{
         "title": "Dear diary",
@@ -51,7 +51,7 @@ var store = [{
         "categories": [],
         "date": "2015-01-27",
         "tags": ["random","diary","school","manuscript"],
-        "url": "https://dieghernan.github.io/20150127_dear-diary/",
+        "url": "https://paleskinnyswede.github.io/20150127_dear-diary/",
         "img": null
       },{
         "title": "To be",
@@ -61,7 +61,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-13",
         "tags": ["wikipedia","manuscript"],
-        "url": "https://dieghernan.github.io/20150213_hamlet-monologue/",
+        "url": "https://paleskinnyswede.github.io/20150213_hamlet-monologue/",
         "img": null
       },{
         "title": "Test markdown",
@@ -71,7 +71,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-20",
         "tags": ["markdown","exciting-stuff"],
-        "url": "https://dieghernan.github.io/20150220_test-markdown/",
+        "url": "https://paleskinnyswede.github.io/20150220_test-markdown/",
         "img": null
       },{
         "title": "Flake it till you make it",
@@ -81,7 +81,7 @@ var store = [{
         "categories": [],
         "date": "2015-02-26",
         "tags": ["random","manuscript"],
-        "url": "https://dieghernan.github.io/20150226_flake-it-till-you-make-it/",
+        "url": "https://paleskinnyswede.github.io/20150226_flake-it-till-you-make-it/",
         "img": null
       },{
         "title": "Urban art",
@@ -91,7 +91,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2018-11-09",
         "tags": ["urban art","street","downtown","image"],
-        "url": "https://dieghernan.github.io/20181109_urban_art/",
+        "url": "https://paleskinnyswede.github.io/20181109_urban_art/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Madrid_-_Graffiti_11.jpg/407px-Madrid_-_Graffiti_11.jpg"
       },{
         "title": "Dean Village",
@@ -101,7 +101,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-05-02",
         "tags": ["landscape","trips","downtown","edinburgh","kramdown","bootstrap","wikipedia","demo","image"],
-        "url": "https://dieghernan.github.io/20190502_dean-village/",
+        "url": "https://paleskinnyswede.github.io/20190502_dean-village/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg/800px-Well_Court%2C_Dean_Village%2C_Edinburgh_%2844485996381%29.jpg"
       },{
         "title": "A landing page",
@@ -111,7 +111,7 @@ var store = [{
         "categories": ["landing-page"],
         "date": "2019-08-03",
         "tags": ["example","demo","layout","guest-author","image"],
-        "url": "https://dieghernan.github.io/20190803_landing-page/",
+        "url": "https://paleskinnyswede.github.io/20190803_landing-page/",
         "img": "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
       },{
         "title": "The Acueduct of Segovia",
@@ -121,7 +121,7 @@ var store = [{
         "categories": ["picture"],
         "date": "2019-11-27",
         "tags": ["landscape","trips","downtown","project-links","wikipedia","image"],
-        "url": "https://dieghernan.github.io/20191127_acueduct-of-segovia/",
+        "url": "https://paleskinnyswede.github.io/20191127_acueduct-of-segovia/",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
       },{
         "title": "Current skin",
@@ -131,26 +131,6 @@ var store = [{
         "categories": ["skins"],
         "date": "2020-12-31",
         "tags": ["skin","bootstrap","current-theme","header-hero","image","demo"],
-        "url": "https://dieghernan.github.io/20201231_current-skin/",
+        "url": "https://paleskinnyswede.github.io/20201231_current-skin/",
         "img": "https://picsum.photos/id/1018/2000/2000"
-      },{
-        "title": "Markdown cheatsheet",
-        "subtitle": "The basic syntax of your page",
-        "excerpt": "<p>A demo page checking Markdown</p>",
-        "content": "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
-        "categories": ["tutorial"],
-        "date": "2025-07-14",
-        "tags": ["starter","syntax","markdown"],
-        "url": "https://dieghernan.github.io/cheatsheets/01-markdown-cheat-sheet",
-        "img": null
-      },{
-        "title": "kramdown cheatsheet",
-        "subtitle": "Beyond Markdown",
-        "excerpt": "<p>kramdown supercharges Markdown with some interesting features.</p>",
-        "content": "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
-        "categories": ["tutorial"],
-        "date": "2025-07-14",
-        "tags": ["starter","syntax","kramdown"],
-        "url": "https://dieghernan.github.io/cheatsheets/02-kramdown-cheat-sheet",
-        "img": null
       }]
