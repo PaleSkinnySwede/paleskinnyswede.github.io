@@ -1,25 +1,23 @@
 ---
 layout: default
-title: Chulapa on remote
+title: PaleSkinnySwede
 header_type: hero
-subtitle: Starter pack
+subtitle: Dull Souless Dance Music
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+Hey there — welcome! 👋
 
-Contains basic configuration to get you a site with:
+I'm PaleSkinnySwede, a music producer and remixer who enjoys sculpting sounds from samples, synths, and the occasional moment of solitude. This blog is my digital liner notes — a place where I share:
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Github Action for deploying the site.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+🎵 **Original Productions** — uptempo and uplifting edm as well as space-trance.
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+🔁 **Remixes** — I'm turning awesome pop songs into dull souless dance music.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+🎙️ **Behind the Tracks** — insights into my creative process, tools I use, and techniques you might want to try yourself.
+
+🧠 Whether you're into sound design, just curious about how songs come together, or here to discover new music — I'm glad you're here.
+
+Scroll down to check out the latest posts, or dive into the [music](#) section to listen.  
+Got questions or want to collaborate? [Drop me a message](mailto:hello@paleskinnyswede.com).
+
+Let’s make some noise.
