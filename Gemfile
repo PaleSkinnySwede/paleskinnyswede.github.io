@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'jekyll', '~> 4.4'
 
 gem 'sassc'
-gem 'jekyll-sass-converter', '~> 2.2'
+gem 'jekyll-sass-converter', '~> 3.0'
 
 group :jekyll_plugins do
   gem 'jekyll-algolia',       '~> 1.0'
