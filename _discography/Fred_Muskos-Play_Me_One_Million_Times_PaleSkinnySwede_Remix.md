@@ -6,7 +6,7 @@ categories: [discography]
 tags: [remix, official]
 ---
 
-![Fredrik Muskos feat. Cooltmoore - Play Me One Million Times (PaleSkinnySwede Remix)](/assets/images/discography/2024-04-04-Fred_Muskos-Play_Me_One_Million_Times_PaleSkinnySwede_Remix/Fred_Muskos_feat_Daniel_Cooltmoore-Play_Me_One_Million_Times_PaleSkinnySwede_Remix.jpg)
+![Fredrik Muskos feat. Cooltmoore - Play Me One Million Times (PaleSkinnySwede Remix)](/assets/images/discography/Fred_Muskos-Play_Me_One_Million_Times_PaleSkinnySwede_Remix/Fred_Muskos_feat_Daniel_Cooltmoore-Play_Me_One_Million_Times_PaleSkinnySwede_Remix.jpg)
 
 Fredrik Muskos is a Swedish songwriter and multi-instrumentalist. He mainly writes rock and heavier sort of pop and the original version of "Play Me One Million Times" is not an exception. When I first heard it I fell in love with the harmonies and Danny's vocals. I asked if I could give it a try and Fredrik said "Yes!".
 

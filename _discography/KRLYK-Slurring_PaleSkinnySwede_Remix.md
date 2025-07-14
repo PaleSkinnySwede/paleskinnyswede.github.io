@@ -6,7 +6,7 @@ categories: [discography]
 tags: [remix, official]
 ---
 
-![KRLYK - Slurring (PaleSkinnySwede Remix)](/assets/images/discography/2024-02-10-KRLYK-Slurring_PaleSkinnySwede_Remix/KRLYK_-_Slurring_PaleSkinnySwede_Remix.jpg)
+![KRLYK - Slurring (PaleSkinnySwede Remix)](/assets/images/discography/KRLYK-Slurring_PaleSkinnySwede_Remix/KRLYK_-_Slurring_PaleSkinnySwede_Remix.jpg)
 
 "Slurring" by Calgary-based artist KRLYK is a Chillstep song with an ethereal and airy feeling. From the first time I heard it I felt that it could also work as an Uptempo Space Trance song. The tempo in the original song is 70 bpm so it was an easy thing to just almost double it. I kept it at 134 bpm to not rush the remix too much.
 

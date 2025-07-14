@@ -6,7 +6,7 @@ categories: [discography]
 tags: [original, mindxpander, ypsilon5]
 ---
 
-![PaleSkinnySwede - Dance of the Spheres](/assets/images/discography/2016-09-27-PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png)
+![PaleSkinnySwede - Dance of the Spheres](/assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png)
 
 This is one of the weirder stories you might read today, this week or even this month.
 
