@@ -133,4 +133,44 @@ var store = [{
         "tags": ["skin","bootstrap","current-theme","header-hero","image","demo"],
         "url": "https://paleskinnyswede.github.io/20201231_current-skin/",
         "img": "https://picsum.photos/id/1018/2000/2000"
+      },{
+        "title": "Fredrik Muskos feat. Cooltmoore - Play Me One Million Times",
+        "subtitle": "PaleSkinnySwede Remix",
+        "excerpt": "",
+        "content": "Fredrik Muskos is a Swedish songwriter and multi-instrumentalist. He mainly writes rock and heavier sort of pop and the original version of “Play Me One Million Times” is not an...",
+        "categories": ["discography"],
+        "date": "2025-07-17",
+        "tags": ["remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/fred-muskos-play-me-one-million-times-paleskinnyswede-remix",
+        "img": null
+      },{
+        "title": "KRLYK - Slurring",
+        "subtitle": "PaleSkinnySwede Remix",
+        "excerpt": "",
+        "content": "“Slurring” by Calgary-based artist KRLYK is a Chillstep song with an ethereal and airy feeling. From the first time I heard it I felt that it could also work as...",
+        "categories": ["discography"],
+        "date": "2025-07-17",
+        "tags": ["remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/krlyk-slurring-paleskinnyswede-remix",
+        "img": null
+      },{
+        "title": "PaleSkinnySwede - Dance of the Spheres",
+        "subtitle": "The TetriNET Theme",
+        "excerpt": "",
+        "content": "This is one of the weirder stories you might read today, this week or even this month. The year was 1996 and I was in my room in my dad’s...",
+        "categories": ["discography"],
+        "date": "2025-07-17",
+        "tags": ["original","mindxpander","ypsilon5"],
+        "url": "https://paleskinnyswede.github.io/discography/paleskinnyswede-dance-of-the-spheres",
+        "img": null
+      },{
+        "title": "PaleSkinnySwede - Synthetic Pillow",
+        "subtitle": "",
+        "excerpt": "",
+        "content": "Tucked away in a cabin in the Swedish mountains, I wrote this song on my laptop while the rest of the family was asleep. It’s a bit dark and lacking...",
+        "categories": ["discography"],
+        "date": "2025-07-17",
+        "tags": ["original","sh-101","tb-303"],
+        "url": "https://paleskinnyswede.github.io/discography/paleskinnyswede-synthetic-pillow",
+        "img": null
       }]
