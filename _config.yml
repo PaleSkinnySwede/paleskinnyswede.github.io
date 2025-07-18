@@ -1,6 +1,6 @@
 github: [metadata]
 
-remote_theme: dieghernan/chulapa
+# remote_theme: dieghernan/chulapa
 
 # Find errors on this file with http://www.yamllint.com/
 

@@ -1,5 +1,5 @@
 ---
-layout: indexcategory
+layout: discography
 title: "Discography"
 include_collection: discography
 permalink: /discography

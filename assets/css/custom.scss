@@ -39,6 +39,20 @@
     }
 }
 
+.card {
+  background: #1e1e2f;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  color: #f0f0f0;
+  font-family: 'Inter', sans-serif;
+  margin-bottom: 1rem;
+  transition: transform 0.2s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+
 footer {
   border-top: none !important;
 }

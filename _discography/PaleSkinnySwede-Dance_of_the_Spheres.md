@@ -1,6 +1,7 @@
 ---
 title: PaleSkinnySwede - Dance of the Spheres
 subtitle: The TetriNET Theme
+cover: /assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png
 excerpt: 
 categories: [discography]
 tags: [original, mindxpander, ypsilon5]
@@ -29,3 +30,6 @@ Told you it's a weird story 😄
 Reading the comments to this new version still makes me smile. It's an honour being part of this legacy.
 
 {% include snippets/video.html id="80cfg1S3SjE" provider="youtube" %}
+
+Album cover art by Midjourney.
+Video photage by yours truly.

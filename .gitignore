@@ -6,6 +6,7 @@
 project.Rproj
 
 # Jekyll build artifacts
+_chulapa-theme/
 _site/
 .sass-cache/
 .jekyll-cache/

@@ -1,6 +1,7 @@
 ---
 title: Fredrik Muskos feat. Cooltmoore - Play Me One Million Times
 subtitle: PaleSkinnySwede Remix
+cover: /assets/images/discography/Fred_Muskos-Play_Me_One_Million_Times_PaleSkinnySwede_Remix/Fred_Muskos_feat_Daniel_Cooltmoore-Play_Me_One_Million_Times_PaleSkinnySwede_Remix.jpg
 excerpt: 
 categories: [discography]
 tags: [remix, official]
