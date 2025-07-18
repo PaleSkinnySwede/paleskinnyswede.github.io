@@ -1,10 +1,13 @@
 <div class="card musician-card">
   <h3>{{ include.name }}</h3>
-  <p>Roles: 
+  <p>
     {% if include.roles %}
       {{ include.roles | join: ", " }}
-    {% else %}
-      <em>No roles listed</em>
+    {% endif %}
+  </p>
+  <p>
+    {% if include.instruments %}
+      Instruments: {{ include.instruments | join: ", " }}
     {% endif %}
   </p>
 </div>
