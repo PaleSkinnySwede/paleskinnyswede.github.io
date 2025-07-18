@@ -139,7 +139,7 @@ var store = [{
         "excerpt": "",
         "content": "Fredrik Muskos is a Swedish songwriter and multi-instrumentalist. He mainly writes rock and heavier sort of pop and the original version of “Play Me One Million Times” is not an...",
         "categories": ["discography"],
-        "date": "2025-07-17",
+        "date": "2025-07-18",
         "tags": ["remix","official"],
         "url": "https://paleskinnyswede.github.io/discography/fred-muskos-play-me-one-million-times-paleskinnyswede-remix",
         "img": null
@@ -149,9 +149,29 @@ var store = [{
         "excerpt": "",
         "content": "“Slurring” by Calgary-based artist KRLYK is a Chillstep song with an ethereal and airy feeling. From the first time I heard it I felt that it could also work as...",
         "categories": ["discography"],
-        "date": "2025-07-17",
-        "tags": ["remix","official"],
+        "date": "2025-07-18",
+        "tags": ["edm","electronic-music","remix","official"],
         "url": "https://paleskinnyswede.github.io/discography/krlyk-slurring-paleskinnyswede-remix",
+        "img": null
+      },{
+        "title": "Mikael Vasara, Cecilia Johansson - Himlen Faller Ner",
+        "subtitle": "PaleSkinnySwede Remix",
+        "excerpt": "<p>Musicians  Cecilia Johansson  Roles:           Vocals        David Lilja  Roles:           Additional Production, Mixing        Joachim Rogalski  Roles:           Backing Vocals, Lyrics by, Music by        Mikael Vasara  Roles:           Vocals, Lyrics by, Music by</p>",
+        "content": "Musicians Cecilia Johansson Roles: Vocals David Lilja Roles: Additional Production, Mixing Joachim Rogalski Roles: Backing Vocals, Lyrics by, Music by Mikael Vasara Roles: Vocals, Lyrics by, Music by 🔍 Track...",
+        "categories": ["discography"],
+        "date": "2025-07-18",
+        "tags": ["edm","electronic-music","remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/mikael-vasara-cecilia-johansson-himlen-faller-ner-paleskinnyswede-remix",
+        "img": null
+      },{
+        "title": "Moist - World’s Collide",
+        "subtitle": "PaleSkinnySwede Remix",
+        "excerpt": "",
+        "content": "",
+        "categories": ["discography"],
+        "date": "2025-07-18",
+        "tags": ["remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/moist-world-s-collide-paleskinnyswede-remix",
         "img": null
       },{
         "title": "PaleSkinnySwede - Dance of the Spheres",
@@ -159,18 +179,38 @@ var store = [{
         "excerpt": "",
         "content": "This is one of the weirder stories you might read today, this week or even this month. The year was 1996 and I was in my room in my dad’s...",
         "categories": ["discography"],
-        "date": "2025-07-17",
+        "date": "2025-07-18",
         "tags": ["original","mindxpander","ypsilon5"],
         "url": "https://paleskinnyswede.github.io/discography/paleskinnyswede-dance-of-the-spheres",
         "img": null
       },{
         "title": "PaleSkinnySwede - Synthetic Pillow",
-        "subtitle": "",
-        "excerpt": "",
-        "content": "Tucked away in a cabin in the Swedish mountains, I wrote this song on my laptop while the rest of the family was asleep. It’s a bit dark and lacking...",
+        "subtitle": "Original Version",
+        "excerpt": "<p>Musicians  David Lilja  Roles:           Mixing, Mastering, Written by</p>",
+        "content": "Musicians David Lilja Roles: Mixing, Mastering, Written by 🔍 Track Details Length: 05:49 Tempo: 128 BPM Key: C minor Label: Outertone Released: 2024-04-08 Streams: 3,858 Album cover art by Midjourney....",
         "categories": ["discography"],
-        "date": "2025-07-17",
-        "tags": ["original","sh-101","tb-303"],
+        "date": "2025-07-18",
+        "tags": ["techno","edm","electronic-music"],
         "url": "https://paleskinnyswede.github.io/discography/paleskinnyswede-synthetic-pillow",
+        "img": null
+      },{
+        "title": "Plastic - I Want U",
+        "subtitle": "PaleSkinnySwede Remix",
+        "excerpt": "",
+        "content": "",
+        "categories": ["discography"],
+        "date": "2025-07-18",
+        "tags": ["edm","electronic-music","remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/plastic-i-want-u-paleskinnyswede-remix",
+        "img": null
+      },{
+        "title": "Vidéo l’Eclipse - Almost There",
+        "subtitle": "PaleSkinnySwede Beast Control Remix",
+        "excerpt": "",
+        "content": "",
+        "categories": ["discography"],
+        "date": "2025-07-18",
+        "tags": ["remix","official"],
+        "url": "https://paleskinnyswede.github.io/discography/vid%C3%A9o-l-eclipse-almost-there-paleskinnyswede-remix",
         "img": null
       }]
