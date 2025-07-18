@@ -187,7 +187,7 @@ var store = [{
         "title": "PaleSkinnySwede - Synthetic Pillow",
         "subtitle": "Original Version",
         "excerpt": "<p>Musicians  David Lilja  Roles:           Mixing, Mastering, Written by</p>",
-        "content": "Musicians David Lilja Roles: Mixing, Mastering, Written by 🔍 Track Details Length: 05:49 Tempo: 128 BPM Key: C minor Label: Outertone Released: 2024-04-08 Streams: 3,858 Album cover art by Midjourney....",
+        "content": "Musicians David Lilja Roles: Mixing, Mastering, Written by 🔍 Track Details Length: 05:49 Tempo: 128 BPM Key: C minor Label: Outertone Released: 2024-04-08 Streams: 3,858 Story Tucked away in a...",
         "categories": ["discography"],
         "date": "2025-07-18",
         "tags": ["techno","edm","electronic-music"],
