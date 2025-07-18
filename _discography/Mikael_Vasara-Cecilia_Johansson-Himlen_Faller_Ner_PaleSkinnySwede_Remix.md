@@ -43,7 +43,7 @@ links:
 
 # Musicians
 {% for m in page.musicians %}
-  {% include musician-card.html name=m.name roles=m.roles %}
+  {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments %}
 {% endfor %}
 
 ### 🔍 Track Details

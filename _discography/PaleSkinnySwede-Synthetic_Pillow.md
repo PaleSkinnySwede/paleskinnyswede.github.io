@@ -4,19 +4,15 @@ project: PaleSkinnySwede
 title: "PaleSkinnySwede - Synthetic Pillow"
 subtitle: "Original Version"
 cover: /assets/images/discography/PaleSkinnySwede-Synthetic_Pillow/PaleSkinnySwede_-_Synthetic_Pillow.jpg
-music-by: "David Lilja"
-lyrics-by: null
 musicians:
   - name: "David Lilja"
-    roles: [Mixing, Mastering, "Written by"]
-    instruments: [Software]
+    roles: ["Music by", Mixing, Mastering]
+    instruments: [Computer]
 length: "05:49"
 key: "C minor"
 signature: "4/4"
 tempo: 128
 daw: "Studio One v6"
-deadline: null
-done: false
 released: true
 release-date: 2024-04-08
 label: Outertone
@@ -35,19 +31,18 @@ links:
     url: https://youtu.be/mbcLc55xss4
 ---
 
-# Musicians
+## Musicians
 {% for m in page.musicians %}
-  {% include musician-card.html name=m.name roles=m.roles %}
+  {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments%}
 {% endfor %}
 
-### 🔍 Track Details
+## Track Details
 
 - **Length**: {{ page.length }}
-- **Tempo**: {{ page.tempo }} BPM
+- **BPM**: {{ page.tempo }}
 - **Key**: {{ page.key }}
 - **Label**: {{ page.label }}
 - **Released**: {{ page.release-date }}
-- **Streams**: 3,858
 
 ## Story
 Tucked away in a cabin in the Swedish mountains, I wrote this song on my laptop while the rest of the family was asleep. It's a bit dark and lacking melodies compared to what I usually do but it still has its place in my song catalogue.

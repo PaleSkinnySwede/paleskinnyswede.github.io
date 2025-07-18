@@ -4,13 +4,12 @@ project: PaleSkinnySwede
 title: "Plastic - I Want U"
 subtitle: "PaleSkinnySwede Remix"
 cover: /assets/images/discography/Plastic-I_Want_U_PaleSkinnySwede_Remix/Plastic_-_I_Want_U_PaleSkinnySwede_Remix.jpg
-music-by: ["Agnieszka Burcan"]
-lyrics-by: ["Agnieszka Burcan"]
 musicians:
   - name: "Agnieszka Burcan"
-    roles: [Vocals]
+    roles: [Music by, Lyrics by, Vocals]
   - name: "Paweł Radziszewski"
-    roles: [Guitars]
+    roles: null
+    instruments: [Guitars]
   - name: "David Lilja"
     roles: ["Additional Production", Mixing]
     instruments: ["Computers"]
@@ -39,4 +38,7 @@ links:
     url: https://youtu.be/pppwdypVgLA
 ---
 
-![KRLYK - Slurring (PaleSkinnySwede Remix)](/assets/images/discography/KRLYK-Slurring_PaleSkinnySwede_Remix/KRLYK_-_Slurring_PaleSkinnySwede_Remix.jpg)
+# Musicians
+{% for m in page.musicians %}
+  {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments %}
+{% endfor %}
