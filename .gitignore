@@ -14,7 +14,6 @@ _site/
 
 # Bundler and Ruby dependencies
 .bundle/
-vendor/
 Gemfile.lock
 
 # VS Code settings
