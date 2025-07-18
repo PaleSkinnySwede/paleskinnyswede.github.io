@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: album
 project: PaleSkinnySwede
 title: "PaleSkinnySwede - Synthetic Pillow"
 subtitle: "Original Version"
@@ -48,9 +48,6 @@ links:
 - **Label**: {{ page.label }}
 - **Released**: {{ page.release-date }}
 - **Streams**: 3,858
-
-![PaleSkinnySwede - Synthetic Pillow](/assets/images/discography/PaleSkinnySwede-Synthetic_Pillow/PaleSkinnySwede_-_Synthetic_Pillow.jpg)
-*Album cover art by Midjourney.*
 
 ## Story
 Tucked away in a cabin in the Swedish mountains, I wrote this song on my laptop while the rest of the family was asleep. It's a bit dark and lacking melodies compared to what I usually do but it still has its place in my song catalogue.

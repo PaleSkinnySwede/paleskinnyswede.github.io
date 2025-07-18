@@ -7,13 +7,16 @@ layout: default
     {% for album in site.discography %}
       <div class="col-md-4 mb-4">
         <div class="card h-100 shadow-sm">
-          <img src="{{ album.cover }}" class="card-img-top" alt="{{ album.title }} cover">
+          <a href="{{ album.url }}">
+            <img src="{{ album.cover }}" class="card-img-top" alt="{{ album.title }} cover">
+          </a>
           <div class="card-body">
-            <h5 class="card-title">{{ album.title }}</h5>
+            <h5 class="card-title">
+              <a href="{{ album.url }}" class="text-decoration-none">{{ album.title }}</a>
+            </h5>
             {% if album.subtitle %}
               <h6 class="card-subtitle mb-2 text-muted">{{ album.subtitle }}</h6>
             {% endif %}
-            <a href="{{ album.url }}" class="btn btn-primary">Listen</a>
           </div>
         </div>
       </div>

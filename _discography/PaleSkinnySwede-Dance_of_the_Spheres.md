@@ -1,4 +1,5 @@
 ---
+layoyt: album
 title: PaleSkinnySwede - Dance of the Spheres
 subtitle: The TetriNET Theme
 cover: /assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png

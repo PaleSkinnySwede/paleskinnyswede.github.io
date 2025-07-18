@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: album
 project: PaleSkinnySwede
 title: "Mikael Vasara, Cecilia Johansson - Himlen Faller Ner"
 subtitle: "PaleSkinnySwede Remix"

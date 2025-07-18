@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: album
 project: PaleSkinnySwede
 title: "KRLYK - Slurring"
 subtitle: "PaleSkinnySwede Remix"

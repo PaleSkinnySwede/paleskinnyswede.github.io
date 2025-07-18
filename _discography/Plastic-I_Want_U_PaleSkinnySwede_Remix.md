@@ -1,5 +1,5 @@
 ---
-layout: discography
+layout: album
 project: PaleSkinnySwede
 title: "Plastic - I Want U"
 subtitle: "PaleSkinnySwede Remix"
