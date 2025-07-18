@@ -18,12 +18,10 @@ key: ""
 signature: "4/4"
 tempo: null
 daw: "Studio One v5"
-deadline: null
-done: false
 released: true
 release-date: 2014-01-27
 label: "Parlophone Music Poland"
-categories: [discography]
+categories: [remix]
 tags: [edm, electronic-music, remix, official]
 links:
   - title: Apple Music

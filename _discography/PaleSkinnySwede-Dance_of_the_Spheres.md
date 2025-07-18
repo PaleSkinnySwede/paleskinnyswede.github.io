@@ -1,16 +1,41 @@
 ---
-layoyt: album
+layout: album
+project: PaleSkinnySwede
 title: PaleSkinnySwede - Dance of the Spheres
 subtitle: The TetriNET Theme
 cover: /assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png
+musicians:
+  - name: "David Lilja"
+    roles: [Music by, Mixing, Mastering]
+    instruments: [Computer]
+length: "mm:ss"
+key: null
+signature: "4/4"
+tempo: null
 released: true
-excerpt: 
-categories: [discography]
-tags: [original, mindxpander, ypsilon5]
+release-date: yyyy-MM-dd
+label: null
+categories: [original]
+tags: [original]
+links:
+  - title: Apple Music
+    url: null
+  - title: Deezer
+    url: null
+  - title: Spotify
+    url: null
+  - title: Tidal
+    url: null
+  - title: YouTube
+    url: https://youtu.be/80cfg1S3SjE
 ---
 
-![PaleSkinnySwede - Dance of the Spheres](/assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png)
+## Musicians
+{% for m in page.musicians %}
+  {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments%}
+{% endfor %}
 
+## Background
 This is one of the weirder stories you might read today, this week or even this month.
 
 The year was 1996 and I was in my room in my dad's apartment in Örebro, Sweden. I was 19 years old by the time and I'd been producing music for a couple of years. 1996 was before the MP3 revolution and sharing music using 28.8 kbps modems hooked up to the phone line was tough. While I was recording my music as WAV files those where literally impossible to upload so I recorded my own cassette tapes and handed out to friends and family.

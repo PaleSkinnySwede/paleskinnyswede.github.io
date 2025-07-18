@@ -1,22 +1,22 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: "PaleSkinnySwede - Ancient"
-subtitle: "Original Version"
+title: null
+subtitle: null
 cover: null
 musicians:
   - name: "David Lilja"
-    roles: ["Music by", Mixing, Mastering]
+    roles: [Music by, Mixing, Mastering]
     instruments: [Computer]
-length: "04:04"
-key: "C minor"
+length: "mm:ss"
+key: null
 signature: "4/4"
-tempo: 168
+tempo: null
 released: null
-release-date: 2024-08-04
-label: Outertone
-categories: [original]
-tags: [drum&bass, edm, electronic-music, jungle]
+release-date: yyyy-MM-dd
+label: null
+categories: [discography]
+tags: [null]
 links:
   - title: Apple Music
     url: null
@@ -34,6 +34,8 @@ links:
 {% for m in page.musicians %}
   {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments%}
 {% endfor %}
+
+## Background
 
 {% if page.links %}
 ## Listen here

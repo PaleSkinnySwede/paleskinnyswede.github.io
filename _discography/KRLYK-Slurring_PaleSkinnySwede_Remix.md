@@ -1,28 +1,26 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: "KRLYK - Slurring"
-subtitle: "PaleSkinnySwede Remix"
+title: KRLYK - Slurring
+subtitle: PaleSkinnySwede Remix
 cover: /assets/images/discography/KRLYK-Slurring_PaleSkinnySwede_Remix/KRLYK_-_Slurring_PaleSkinnySwede_Remix.jpg
 music-by: ["Karly Knott"]
 lyrics-by: ["Karly Knott"]
 musicians:
   - name: "Karly Knott"
-    roles: [Vocals]
+    roles: [Music by, Lyrics by, Vocals]
   - name: "David Lilja"
-    roles: ["Additional Production", Mixing]
+    roles: ["Additional Production", Mixing, Mastering]
     instruments: ["Arturia PolyBrute", "DSI Pro-12", "Computers"]
 length: "06:06"
 key: "F# minor"
 signature: "4/4"
 tempo: 134
 daw: "Studio One v6"
-deadline: null
-done: false
 released: true
 release-date: 2024-02-25
 label: Outertone
-categories: [discography]
+categories: [remix]
 tags: [edm, electronic-music, remix, official]
 links:
   - title: Apple Music
@@ -36,8 +34,6 @@ links:
   - title: YouTube
     url: https://youtu.be/pppwdypVgLA
 ---
-
-![KRLYK - Slurring (PaleSkinnySwede Remix)](/assets/images/discography/KRLYK-Slurring_PaleSkinnySwede_Remix/KRLYK_-_Slurring_PaleSkinnySwede_Remix.jpg)
 
 # Musicians
 {% for m in page.musicians %}

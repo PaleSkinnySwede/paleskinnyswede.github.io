@@ -16,7 +16,7 @@ daw: "Studio One v6"
 released: true
 release-date: 2024-04-08
 label: Outertone
-categories: [discography]
+categories: [original]
 tags: [techno, edm, electronic-music]
 links:
   - title: Apple Music

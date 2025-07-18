@@ -4,29 +4,25 @@ project: PaleSkinnySwede
 title: "Mikael Vasara, Cecilia Johansson - Himlen Faller Ner"
 subtitle: "PaleSkinnySwede Remix"
 cover: /assets/images/discography/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix.jpg
-music-by: ["Joachim Rogalski", "Mikael Vasara"]
-lyrics-by: ["Joachim Rogalski", "Mikael Vasara"]
 musicians:
   - name: "Cecilia Johansson"
     roles: [Vocals]
   - name: "David Lilja"
-    roles: ["Additional Production", Mixing]
+    roles: [Additional Production, Instruments, Mixing]
     instruments: ["DSI Pro-12", "Roland V-Synth GT", "Computers"]
   - name: "Joachim Rogalski"
-    roles: ["Backing Vocals", "Lyrics by", "Music by"]
+    roles: [Music by, Lyrics by, Backing vocals, Mastering]
   - name: "Mikael Vasara"
-    roles: [Vocals, "Lyrics by", "Music by"]
+    roles: [Music by, Lyrics by, Vocals]
 length: "03:12"
 key: "F major"
 signature: "4/4"
 tempo: 136
 daw: "Studio One v6"
-deadline: null
-done: false
 released: true
 release-date: 2024-04-29
 label: TMJ Records
-categories: [discography]
+categories: [remix]
 tags: [edm, electronic-music, remix, official]
 links:
   - title: Apple Music
