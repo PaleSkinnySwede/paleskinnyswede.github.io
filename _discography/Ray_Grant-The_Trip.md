@@ -4,7 +4,7 @@ project: PaleSkinnySwede
 artist: Ray Grant
 title: The Trip
 subtitle: null
-cover: null
+cover: /assets/images/discography/Ray_Grant-The_Trip/Ray_Grant-The_Trip.png
 musicians:
   - name: Ray Grant
     roles: [Music by, Lyrics by, Vocals]

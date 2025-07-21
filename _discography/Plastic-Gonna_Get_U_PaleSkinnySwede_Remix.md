@@ -4,7 +4,7 @@ project: PaleSkinnySwede
 artist: Plastic
 title: Gonna Get U
 subtitle: PaleSkinnySwede Remix
-cover: null
+cover: /assets/imageS/discography/Plastic-Gonna_Get_U_PaleSkinnySwede_Remix/Plastic-Gonna_Get_U_PaleSkinnySwede_Remix.jpg
 musicians:
   - name: Agnieszka Burcan
     roles: [Music by, Lyrics by, Vocals]

@@ -4,7 +4,7 @@ project: PaleSkinnySwede
 artist: David Lilja
 title: Gracefulness
 subtitle: null
-cover: null
+cover: /assets/images/discography/David_Lilja-Gracefulness/David_Lilja-Gracefulness.jpeg
 musicians:
   - name: "David Lilja"
     roles: [Music by, Mixing]
