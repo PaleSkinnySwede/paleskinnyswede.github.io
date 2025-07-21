@@ -1,6 +1,7 @@
 ---
 layout: album
 project: PaleSkinnySwede
+artist: null
 title: null
 subtitle: null
 cover: null
@@ -15,7 +16,7 @@ tempo: null
 released: null
 release-date: yyyy-MM-dd
 label: null
-categories: [discography]
+categories: [original]
 tags: [null]
 links:
   - title: Apple Music
