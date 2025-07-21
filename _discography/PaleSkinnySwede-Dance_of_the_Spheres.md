@@ -1,13 +1,14 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: PaleSkinnySwede - Dance of the Spheres
+artist: PaleSkinnySwede
+title: Dance of the Spheres
 subtitle: The TetriNET Theme
 cover: /assets/images/discography/PaleSkinnySwede-Dance_of_the_Spheres/PaleSkinnySwede_-_Dance_of_the_Spheres.png
 musicians:
-  - name: "David Lilja"
+  - name: David Lilja
     roles: [Music by, Mixing, Mastering]
-    instruments: [Computer]
+    instruments: [Synthesisers, Computer]
 length: "mm:ss"
 key: null
 signature: "4/4"

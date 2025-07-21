@@ -1,18 +1,19 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: Plastic - Gonna Get U
+artist: Plastic
+title: Gonna Get U
 subtitle: PaleSkinnySwede Remix
 cover: null
 musicians:
-  - name: "Agnieszka Burcan"
+  - name: Agnieszka Burcan
     roles: [Music by, Lyrics by, Vocals]
-  - name: "Paweł Radziszewski"
+  - name: Paweł Radziszewski
     roles: null
     instruments: [Guitars]
-  - name: "David Lilja"
-    roles: ["Additional Production", Mixing]
-    instruments: ["Computers"]
+  - name: David Lilja
+    roles: [Additional Production, Mixing]
+    instruments: [Synthesisers, Computer]
 length: "06:01"
 key: null
 signature: "4/4"
@@ -20,8 +21,8 @@ tempo: null
 released: true
 release-date: yyyy-MM-dd
 label: null
-categories: [discography]
-tags: [null]
+categories: [remix]
+tags: [edm, electronic-music, remix, official]
 links:
   - title: Apple Music
     url: https://music.apple.com/se/album/gonna-get-u-feat-paleskinnyswede-paleskinnyswede-remix/1543043480?i=1543043801&l=en-GB
@@ -41,6 +42,7 @@ links:
 {% endfor %}
 
 ## Background
+
 
 {% if page.links %}
 ## Listen here

@@ -1,13 +1,14 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: "PaleSkinnySwede - Synthetic Pillow"
-subtitle: "Original Version"
+artist: PaleSkinnySwede
+title: Synthetic Pillow
+subtitle: Original Version
 cover: /assets/images/discography/PaleSkinnySwede-Synthetic_Pillow/PaleSkinnySwede_-_Synthetic_Pillow.jpg
 musicians:
-  - name: "David Lilja"
+  - name: David Lilja
     roles: ["Music by", Mixing, Mastering]
-    instruments: [Computer]
+    instruments: [Synthesisers, Computer]
 length: "05:49"
 key: "C minor"
 signature: "4/4"

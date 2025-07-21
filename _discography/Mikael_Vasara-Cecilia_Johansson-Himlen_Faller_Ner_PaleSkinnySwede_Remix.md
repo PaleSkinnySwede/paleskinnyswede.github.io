@@ -1,19 +1,20 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: "Mikael Vasara, Cecilia Johansson - Himlen Faller Ner"
+artist: Mikael Vasara, Cecilia Johansson
+title: Himlen Faller Ner
 subtitle: "PaleSkinnySwede Remix"
 cover: /assets/images/discography/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix.jpg
 musicians:
-  - name: "Cecilia Johansson"
+  - name: Cecilia Johansson
     roles: [Vocals]
-  - name: "David Lilja"
-    roles: [Additional Production, Instruments, Mixing]
-    instruments: ["DSI Pro-12", "Roland V-Synth GT", "Computers"]
-  - name: "Joachim Rogalski"
+  - name: Joachim Rogalski
     roles: [Music by, Lyrics by, Backing vocals, Mastering]
-  - name: "Mikael Vasara"
+  - name: Mikael Vasara
     roles: [Music by, Lyrics by, Vocals]
+  - name: David Lilja
+    roles: [Additional Production, Instruments, Mixing]
+    instruments: [DSI Pro-12, Roland V-Synth GT, Computer]
 length: "03:12"
 key: "F major"
 signature: "4/4"

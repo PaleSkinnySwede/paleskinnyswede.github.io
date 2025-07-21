@@ -1,17 +1,18 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: Vidéo l'Eclipse - Almost There
+artist: Vidéo l'Eclipse
+title:  Almost There
 subtitle: PaleSkinnySwede Beast Control Remix
 cover: /assets/images/discography/Vidéo_L'Eclipse-Almost_There_PaleSkinnySwede_Remix/Video_LEclipse_-_Almost_There_PaleSkinnySwede_Remix.jpg
 musicians:
-  - name: "Jonas Peterson"
+  - name: Jonas Peterson
     roles: [Music by, Lyrics by, Vocals]
-  - name: "Robert Tingelöf"
+  - name: Robert Tingelöf
     roles: [Music by, Lyrics by]
-  - name: "David Lilja"
+  - name: David Lilja
     roles: [Music by, Mixing, Mastering]
-    instruments: [Computers]
+    instruments: [Synthesisers, Computer]
 length: "08:21"
 key: null
 signature: "4/4"
@@ -40,6 +41,7 @@ links:
 {% endfor %}
 
 ## Background
+I met Robert on a Discord server and really liked his band's upcoming release, "Almost There". He was asking for remixes and I created this one. This was the first remix that I'd done in a couple of years and it was fun to get back at it.
 
 {% if page.links %}
 ## Listen here

@@ -1,18 +1,19 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: "Plastic - I Want U"
+artist: Plastic
+title: I Want U
 subtitle: "PaleSkinnySwede Remix"
 cover: /assets/images/discography/Plastic-I_Want_U_PaleSkinnySwede_Remix/Plastic_-_I_Want_U_PaleSkinnySwede_Remix.jpg
 musicians:
-  - name: "Agnieszka Burcan"
+  - name: Agnieszka Burcan
     roles: [Music by, Lyrics by, Vocals]
-  - name: "Paweł Radziszewski"
+  - name: Paweł Radziszewski
     roles: null
     instruments: [Guitars]
-  - name: "David Lilja"
+  - name: David Lilja
     roles: ["Additional Production", Mixing]
-    instruments: ["Computers"]
+    instruments: [Synthesisers, Computer]
 length: ""
 key: ""
 signature: "4/4"

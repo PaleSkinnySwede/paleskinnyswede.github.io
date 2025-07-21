@@ -1,19 +1,20 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: Fredrik Muskos feat. Cooltmoore - Play Me One Million Times
+artist: Fredrik Muskos feat. Cooltmoore
+title: Play Me One Million Times
 subtitle: PaleSkinnySwede Remix
 cover: /assets/images/discography/Fred_Muskos-Play_Me_One_Million_Times_PaleSkinnySwede_Remix/Fred_Muskos_feat_Daniel_Cooltmoore-Play_Me_One_Million_Times_PaleSkinnySwede_Remix.jpg
 musicians:
-  - name: "Danny Cooltmoore"
+  - name: Danny Cooltmoore
     roles: [Music by, Lyrics by]
     instruments: [Vocals]
-  - name: "Fredrik Muskos"
+  - name: Fredrik Muskos
     roles: [Music by, Lyrics by, Mastering]
     instruments: [Guitars]
-  - name: "David Lilja"
-    roles: ["Additional Production", Mixing]
-    instruments: ["Computers"]
+  - name: David Lilja
+    roles: [Additional Production, Mixing]
+    instruments: [Synthesisers, Computer]
 length: "08:33"
 key: "F# minor"
 signature: "4/4"

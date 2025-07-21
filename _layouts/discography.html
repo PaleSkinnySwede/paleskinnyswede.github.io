@@ -8,16 +8,21 @@ layout: default
       {% if album.released == true %}
         <div class="col-md-4 mb-4">
           <div class="card h-100 shadow-sm">
+            {%- for category in album.categories -%}
+            <a href="{{- category | replace: " ", "-" | prepend: "#" |
+                prepend: album.cloudcategory_url |
+                absolute_url | uri_escape -}}" class="badge chulapa-pill-bg-secondary mx-1">{{- category -}}
+            </a>
+            {%- endfor -%}
+            <br>
             <a href="{{ album.url }}">
               <img src="{{ album.cover }}" class="card-img-top" alt="{{ album.title }} cover">
             </a>
             <div class="card-body">
-              <h5 class="card-title">
-                <a href="{{ album.url }}" class="text-decoration-none">{{ album.title }}</a>
-              </h5>
-              {% if album.subtitle %}
-                <h6 class="card-subtitle mb-2 text-muted">{{ album.subtitle }}</h6>
-              {% endif %}
+              <div class="card-title">
+                {{ album.artist }}<br>
+                <i>"{{ album.title }}"</i>
+              </div>
             </div>
           </div>
         </div>

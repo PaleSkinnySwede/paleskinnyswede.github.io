@@ -1,0 +1,14 @@
+
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ album.url }}" class="text-decoration-none">{{ album.artist }}</a>
+              </h5>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ album.url }}" class="text-decoration-none">{{ album.title }}</a>
+              </h5>
+              {% if album.subtitle %}
+                <h6 class="card-subtitle mb-2 text-muted">{{ album.subtitle }}</h6>
+              {% endif %}
+            </div>

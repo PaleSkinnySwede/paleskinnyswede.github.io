@@ -1,21 +1,22 @@
 ---
 layout: album
 project: PaleSkinnySwede
-title: Moist - Worlds Collide
+artist: Moist
+title: Worlds Collide
 subtitle: PaleSkinnySwede Remix
 cover: /assets/images/discography/Moist-Worlds_Collide_PaleSkinnySwede_Remix/Moist-Worlds_Collide_PaleSkinnySwede_Remix.jpg
 musicians:
-  - name: "David Elfström Lilja"
+  - name: David Elfström Lilja
     roles: [Music by, Lyrics by, Mastering]
-  - name: "Maria Marcus"
+  - name: Maria Marcus
     roles: [Music by, Lyrics by, Vocals]
-  - name: "Niclas Lundin"
+  - name: Niclas Lundin
     roles: [Music by, Lyrics by]
-  - name: "Patrick Hamilton"
+  - name: Patrick Hamilton
     roles: [Music by, Lyrics by]
-  - name: "David Lilja"
-    roles: ["Additional Production", Instruments, Mixing]
-    instruments: ["Clavia Nord Modular G2", "DSI Pro-2", "Computers"]
+  - name: David Lilja
+    roles: [Additional Production, Mixing]
+    instruments: [Clavia Nord Modular G2, DSI Pro-2, Computer]
 length: "07:40"
 key: "F# minor"
 signature: "4/4"
@@ -43,6 +44,9 @@ links:
 {% for m in page.musicians %}
   {% include musician-card.html name=m.name roles=m.roles instruments=m.instruments %}
 {% endfor %}
+
+## Background
+David Elfström Lilja runs the label IO Music, and since we have the same name (minus Elfström) we've been mixed up on more than on occassion. I reached out and suggested that we should do a song together just for the fun of it. He was about to release *Worlds Collide* and thought that I could remix it -- so I did. It's my most streamed release until this day with over 80,000 streams.
 
 {% if page.links %}
 ## Listen here
