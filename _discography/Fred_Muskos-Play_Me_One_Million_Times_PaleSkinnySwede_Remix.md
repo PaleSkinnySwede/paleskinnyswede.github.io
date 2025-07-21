@@ -3,17 +3,16 @@ layout: album
 project: PaleSkinnySwede
 artist: Fredrik Muskos feat. Cooltmoore
 title: Play Me One Million Times
-subtitle: PaleSkinnySwede Remix
+subtitle: PaleSkinnySwede Noise and Sound Remix
 cover: /assets/images/discography/Fred_Muskos-Play_Me_One_Million_Times_PaleSkinnySwede_Remix/Fred_Muskos_feat_Daniel_Cooltmoore-Play_Me_One_Million_Times_PaleSkinnySwede_Remix.jpg
 musicians:
   - name: Danny Cooltmoore
-    roles: [Music by, Lyrics by]
-    instruments: [Vocals]
+    roles: [Music by, Lyrics by, Vocals]
   - name: Fredrik Muskos
     roles: [Music by, Lyrics by, Mastering]
     instruments: [Guitars]
   - name: David Lilja
-    roles: [Additional Production, Mixing]
+    roles: [Additional Production, Arranged by, Mixing]
     instruments: [Synthesisers, Computer]
 length: "08:33"
 key: "F# minor"
@@ -49,7 +48,7 @@ Fredrik Muskos is a Swedish songwriter and multi-instrumentalist. He mainly writ
 I transformed the song into an uplifting trance remix at 136 bpm. I also made the verses more monotone than in the original and the first chord change comes right before the 5-minute mark when it explodes in a melodic mayhem.
 
 With no further ado, here's the remix with the longest title in the history of remixes;
-Fredrik Muskos featuring Danny Cooltmoore - "Play Me One Million Times (PaleSkinnySwede Noise and Sound Remix)".
+Fredrik Muskos featuring Danny Cooltmoore - "Play Me One Million Times (PaleSkinnySwede Noise and Sound Remix)". 109 characters 😄
 
 ### YouTube
 {% include snippets/video.html id="KTpHI5xWcg8" provider="youtube" %}
