@@ -1,7 +1,7 @@
 ---
 layout: album
 project: PaleSkinnySwede
-artist: Mikael Vasara, Cecilia Johansson
+artist: Mikael Vasara & Cecilia Johansson
 title: Himlen Faller Ner
 subtitle: "PaleSkinnySwede Remix"
 cover: /assets/images/discography/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix/Mikael_Vasara-Cecilia_Johansson-Himlen_Faller_Ner_PaleSkinnySwede_Remix.jpg
